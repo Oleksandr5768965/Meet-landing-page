@@ -58,7 +58,6 @@ footer {
     display:flex;
     flex-direction: row;
     padding:64px 0 64px 0;
-    overflow-x: hidden;
 }
 .hero-img-left {
     width:100%;
@@ -148,7 +147,6 @@ footer {
 .section-text-container {
     width:544px;
     height:fit-content;
-    
 }
 .section-quote {
     font-family: var(--font-family);
@@ -360,8 +358,5 @@ footer {
     }
     .section-text-container {
         max-width:311px;
-    }
-    .footer-container {
-
     }
 }
